@@ -1,5 +1,6 @@
 # Membuat WebApp + sistem database OLTP
 sumber dataset : Maven Analytics : https://app.mavenanalytics.io/datasets
+PENJELASAN LEBIH LANJUT KUNJUNGI BLOG : https://medium.com/@zenahmad06/web-app-oltp-fa82a12af687
 
 # frontend
 - windiCSS
