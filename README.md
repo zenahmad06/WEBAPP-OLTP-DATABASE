@@ -33,10 +33,10 @@ sumber dataset : Maven Analytics : https://app.mavenanalytics.io/datasets
 ![detail](./image/detail.PNG)
 
 4. Cart Page
-![cart](./image/cart.png)
+![cart](./image/cart.PNG)
 
 5. Pagination bekerja
 ![alt text](./image/pagination.gif)
 
 6. kerja modal
-![modal](./image/modal.png)
+![modal](./image/modal.PNG)
